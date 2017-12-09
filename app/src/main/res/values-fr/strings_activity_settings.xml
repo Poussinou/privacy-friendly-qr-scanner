@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="title_activity_settings">Paramètres</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!-- Example General settings -->
+    <string name="pref_title_enable_history">Activer l\'Historique</string>
+    <string name="pref_description_enable_history">Les scans précédents sont enregistrés pour que vous puissiez les afficher à nouveau</string>
+    <string name="pref_keep_duplicates">Garder les doublons</string>
+    <string name="pref_keep_duplicates_explanation">Les doublons sont enregistrés dans l\'historique</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_title_beep">Signal sonore</string>
+
+</resources>
